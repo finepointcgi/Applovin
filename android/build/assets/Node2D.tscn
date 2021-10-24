@@ -1,0 +1,60 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://AdManager.gd" type="Script" id=1]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="Button" type="Button" parent="."]
+margin_left = 98.75
+margin_top = 51.25
+margin_right = 704.75
+margin_bottom = 229.25
+text = "Banner"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button2" type="Button" parent="."]
+margin_left = 98.75
+margin_top = 271.25
+margin_right = 704.75
+margin_bottom = 449.25
+text = "Reward"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button3" type="Button" parent="."]
+margin_left = 98.75
+margin_top = 487.342
+margin_right = 704.75
+margin_bottom = 665.342
+text = "Inter"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+margin_left = 916.907
+margin_top = 37.6
+margin_right = 956.907
+margin_bottom = 77.6
+text = "0"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RichTextLabel2" type="RichTextLabel" parent="."]
+margin_left = 872.05
+margin_top = 37.6
+margin_right = 912.05
+margin_bottom = 77.6
+text = "Coins:"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="button_down" from="Button" to="." method="_on_Button_button_down"]
+[connection signal="button_down" from="Button2" to="." method="_on_Button2_button_down"]
+[connection signal="button_down" from="Button3" to="." method="_on_Button3_button_down"]

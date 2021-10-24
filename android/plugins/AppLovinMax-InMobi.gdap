@@ -1,0 +1,13 @@
+[config]
+
+name="AppLovinMax-InMobi"
+binary_type="remote"
+binary="com.applovin.mediation:inmobi-adapter:+"
+
+[dependencies]
+
+local=[]
+remote=[]
+custom_maven_repos=[
+  "https://applovin.bintray.com/Android-Adapter-SDKs"
+]

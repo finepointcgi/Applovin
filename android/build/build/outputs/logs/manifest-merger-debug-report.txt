@@ -1,0 +1,530 @@
+-- Merging decision tree log ---
+meta-data#org.godotengine.editor.version
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:34:9-36:53
+	android:value
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+manifest
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:2:1-71:12
+MERGED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:2:1-71:12
+MERGED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:2:1-27:12
+MERGED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\80d3c82b96c9cb061171f1c65d4b0269\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\bf4f0bc82adc3088167a1ee6f649594e\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.applovin.mediation:facebook-adapter:6.8.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f760294256bbfcb4f107d90ca51e5727\jetified-facebook-adapter-6.8.0.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:2:1-31:12
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:2:1-61:12
+MERGED from [com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:2:1-20:12
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:2:1-50:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ed96c926f6ed5d507e5f14bdaeee4878\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ebb0a06d842316e38c99a1fe21b6f2ea\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\21fde13b7951a09b872df4b080a02859\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b3929b39e19049d23d08dd81b2f5deeb\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b739b0265d6c1e9a5f9daf18860ac24b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\c9f9c51c96719269fcb3ae4d7a448909\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0fc0b4707d30fe69464bad1f40f783de\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\41eed925e6c45f8c4b1ce833fac52f75\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\1c74372eb69b9b8e71cf96d7f5acbb43\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\476d58516881ec5d55af756c0f0e09f1\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f7e00a89488f4ca08e0520c00dd0334a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\abb967fabfa19789071bf218fc46fe7d\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\04947d34670cd67edfce8a7d8ea5bc25\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b9fc9027eafc387124427bc22fa1fe55\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0a17be3294ed0bb151902ff42f70db8d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d6395cfe473b878009feabb793af2246\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ccdbce079f3fd808ac73e6d7f526edb2\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\071716c8ffa512be7ce0ae8ee4dc3968\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\443811b9b3c2e30ec32c4e2b5f7f010b\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\30154f6ab1e04b25a3dc69d9a3a650d2\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\01fb35d9a5befd2c496677cf0984bd44\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9953ade05dc14a070124801df2bd0a63\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\986bf6e64989deea5d21420e517d5152\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\684ec28b4d47b99702b87e0142b87abc\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d3d8c18a79b67d645bddfdd6fffb8703\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f9e8569deeaf180b86f7562a710bfef1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\77d4e0467303f4e9a6b86ecde8afee22\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d4abd67dfc5967b3f6b441c094cab635\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\a84fc55ce79cba887d654d9237a2a1f9\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\888f5b25b297a3aa2185417d0c5f2e55\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:7:5-35
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:7:5-35
+supports-screens
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:12:5-16:40
+REJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:12:5-16:40
+	tools:node
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:5:9-29
+	android:largeScreens
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:16:9-37
+uses-feature#0x00020000
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:19:5-21:35
+REJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:19:5-21:35
+	android:glEsVersion
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:20:9-41
+	android:required
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:21:9-32
+application
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:5-69:19
+MERGED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:5-69:19
+MERGED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:5-69:19
+MERGED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:17:5-25:19
+MERGED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:17:5-25:19
+MERGED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:17:5-36:19
+MERGED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:17:5-36:19
+MERGED from [com.applovin.mediation:facebook-adapter:6.8.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f760294256bbfcb4f107d90ca51e5727\jetified-facebook-adapter-6.8.0.0\AndroidManifest.xml:10:5-20
+MERGED from [com.applovin.mediation:facebook-adapter:6.8.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f760294256bbfcb4f107d90ca51e5727\jetified-facebook-adapter-6.8.0.0\AndroidManifest.xml:10:5-20
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:18:5-29:19
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:18:5-29:19
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:14:5-59:19
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:14:5-59:19
+MERGED from [com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:18:5-20
+MERGED from [com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:18:5-20
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:41:5-48:19
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:41:5-48:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ed96c926f6ed5d507e5f14bdaeee4878\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ed96c926f6ed5d507e5f14bdaeee4878\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\77d4e0467303f4e9a6b86ecde8afee22\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\77d4e0467303f4e9a6b86ecde8afee22\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\888f5b25b297a3aa2185417d0c5f2e55\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\888f5b25b297a3aa2185417d0c5f2e55\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:136-180
+		REJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:136-180
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\77d4e0467303f4e9a6b86ecde8afee22\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:18-67
+	android:hardwareAccelerated
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:18:9-43
+	tools:ignore
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:96-135
+	android:icon
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:181-208
+	android:allowBackup
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:68-95
+	android:networkSecurityConfig
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:19:9-69
+	tools:replace
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:19:9-61
+meta-data#xr_mode_metadata_name
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:42:9-44:54
+REJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:42:9-44:54
+	tools:node
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:22:20-39
+	android:value
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:44:13-51
+	android:name
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:43:13-49
+activity#com.godot.game.GodotApp
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:46:9-63:20
+MERGED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:46:9-63:20
+MERGED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:46:9-63:20
+	android:screenOrientation
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:51:13-50
+		REJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:51:13-50
+	android:label
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:48:13-62
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:48:13-62
+	android:launchMode
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:50:13-44
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:50:13-44
+	android:resizeableActivity
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:53:13-47
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:53:13-47
+	tools:ignore
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:54:13-43
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:54:13-43
+	android:configChanges
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:52:13-141
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:52:13-141
+	android:theme
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:49:13-55
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:49:13-55
+	tools:replace
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:23:58-99
+	android:name
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:47:13-37
+meta-data#com.oculus.vr.focusaware
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:57:13-88
+REJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:57:13-88
+	tools:node
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:24:24-43
+	android:value
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:57:64-85
+	android:name
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:57:24-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:59:13-62:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:61:27-74
+uses-sdk
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+MERGED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:7:5-9:41
+MERGED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:7:5-9:41
+MERGED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:7:5-9:41
+MERGED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\80d3c82b96c9cb061171f1c65d4b0269\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\80d3c82b96c9cb061171f1c65d4b0269\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\bf4f0bc82adc3088167a1ee6f649594e\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\bf4f0bc82adc3088167a1ee6f649594e\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.applovin.mediation:facebook-adapter:6.8.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f760294256bbfcb4f107d90ca51e5727\jetified-facebook-adapter-6.8.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.applovin.mediation:facebook-adapter:6.8.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f760294256bbfcb4f107d90ca51e5727\jetified-facebook-adapter-6.8.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:11:5-13:41
+MERGED from [com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:11:5-13:41
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ed96c926f6ed5d507e5f14bdaeee4878\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ed96c926f6ed5d507e5f14bdaeee4878\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ebb0a06d842316e38c99a1fe21b6f2ea\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ebb0a06d842316e38c99a1fe21b6f2ea\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\21fde13b7951a09b872df4b080a02859\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\21fde13b7951a09b872df4b080a02859\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b3929b39e19049d23d08dd81b2f5deeb\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b3929b39e19049d23d08dd81b2f5deeb\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b739b0265d6c1e9a5f9daf18860ac24b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b739b0265d6c1e9a5f9daf18860ac24b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\c9f9c51c96719269fcb3ae4d7a448909\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\c9f9c51c96719269fcb3ae4d7a448909\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0fc0b4707d30fe69464bad1f40f783de\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0fc0b4707d30fe69464bad1f40f783de\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\41eed925e6c45f8c4b1ce833fac52f75\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\41eed925e6c45f8c4b1ce833fac52f75\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\1c74372eb69b9b8e71cf96d7f5acbb43\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\1c74372eb69b9b8e71cf96d7f5acbb43\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\476d58516881ec5d55af756c0f0e09f1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\476d58516881ec5d55af756c0f0e09f1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f7e00a89488f4ca08e0520c00dd0334a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f7e00a89488f4ca08e0520c00dd0334a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\abb967fabfa19789071bf218fc46fe7d\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\abb967fabfa19789071bf218fc46fe7d\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\04947d34670cd67edfce8a7d8ea5bc25\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\04947d34670cd67edfce8a7d8ea5bc25\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b9fc9027eafc387124427bc22fa1fe55\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\b9fc9027eafc387124427bc22fa1fe55\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0a17be3294ed0bb151902ff42f70db8d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0a17be3294ed0bb151902ff42f70db8d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d6395cfe473b878009feabb793af2246\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d6395cfe473b878009feabb793af2246\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ccdbce079f3fd808ac73e6d7f526edb2\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ccdbce079f3fd808ac73e6d7f526edb2\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\071716c8ffa512be7ce0ae8ee4dc3968\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\071716c8ffa512be7ce0ae8ee4dc3968\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\443811b9b3c2e30ec32c4e2b5f7f010b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\443811b9b3c2e30ec32c4e2b5f7f010b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\30154f6ab1e04b25a3dc69d9a3a650d2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\30154f6ab1e04b25a3dc69d9a3a650d2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\01fb35d9a5befd2c496677cf0984bd44\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\01fb35d9a5befd2c496677cf0984bd44\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9953ade05dc14a070124801df2bd0a63\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9953ade05dc14a070124801df2bd0a63\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\986bf6e64989deea5d21420e517d5152\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\986bf6e64989deea5d21420e517d5152\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\684ec28b4d47b99702b87e0142b87abc\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\684ec28b4d47b99702b87e0142b87abc\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d3d8c18a79b67d645bddfdd6fffb8703\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d3d8c18a79b67d645bddfdd6fffb8703\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f9e8569deeaf180b86f7562a710bfef1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\f9e8569deeaf180b86f7562a710bfef1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\77d4e0467303f4e9a6b86ecde8afee22\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\77d4e0467303f4e9a6b86ecde8afee22\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d4abd67dfc5967b3f6b441c094cab635\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\d4abd67dfc5967b3f6b441c094cab635\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\a84fc55ce79cba887d654d9237a2a1f9\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\a84fc55ce79cba887d654d9237a2a1f9\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\888f5b25b297a3aa2185417d0c5f2e55\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\888f5b25b297a3aa2185417d0c5f2e55\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml
+		INJECTED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:10:5-78
+	android:glEsVersion
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:10:19-51
+	android:required
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:10:52-75
+instrumentation
+ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:11:5-16:69
+REJECTED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:11:5-15:57
+	tools:node
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:12:9-29
+	android:label
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:15:9-58
+	android:icon
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:14:9-36
+	android:targetPackage
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:16:9-66
+	android:name
+		ADDED from C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:13:9-45
+meta-data#org.godotengine.library.version
+ADDED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:20:9-22:44
+	android:value
+		ADDED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:22:13-41
+	android:name
+		ADDED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:21:13-59
+service#org.godotengine.godot.GodotDownloaderService
+ADDED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:9-80
+	android:name
+		ADDED from [godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:18-77
+uses-permission#android.permission.INTERNET
+ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:15:5-67
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:13:5-67
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:16:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:16:5-79
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:12:5-79
+MERGED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:12:5-79
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:14:5-79
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:22-78
+uses-feature#android.hardware.location.network
+ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:19-67
+meta-data#org.godotengine.plugin.v1.AppLovinMax
+ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:30:9-32:66
+	android:value
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:31:13-65
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:33:9-35:36
+	android:value
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:35:13-33
+	android:name
+		ADDED from [AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:34:13-69
+queries
+ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:11:5-13:15
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:16:5-39:15
+MERGED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:16:5-39:15
+package#com.facebook.katana
+ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:12:18-52
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:19:9-23:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:22:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:20:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:25:9-28:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:27:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:26:13-75
+activity#com.applovin.adview.AppLovinInterstitialActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:15:9-19:50
+	android:screenOrientation
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:19:13-47
+	android:hardwareAccelerated
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:17:13-98
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:16:13-76
+activity#com.applovin.adview.AppLovinFullscreenActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:20:9-26:50
+	android:screenOrientation
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:26:13-47
+	android:launchMode
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:25:13-43
+	android:hardwareAccelerated
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:24:13-47
+	android:exported
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:23:13-37
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:22:13-129
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:21:13-74
+activity#com.applovin.sdk.AppLovinWebViewActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:27:9-29:84
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:29:13-81
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:28:13-68
+activity#com.applovin.mediation.MaxDebuggerActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:30:9-33:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:33:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:31:13-70
+activity#com.applovin.mediation.MaxDebuggerDetailActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:34:9-37:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:36:13-74
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:37:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:35:13-76
+activity#com.applovin.mediation.MaxDebuggerMultiAdActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:38:9-41:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:40:13-74
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:41:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:39:13-77
+activity#com.applovin.mediation.MaxDebuggerAdUnitsListActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:42:9-45:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:44:13-74
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:45:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:43:13-81
+activity#com.applovin.mediation.MaxDebuggerAdUnitDetailActivity
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:46:9-49:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:48:13-74
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:49:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:47:13-82
+service#com.applovin.impl.sdk.utils.AppKilledService
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:51:9-54:44
+	android:exported
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:53:13-37
+	android:stopWithTask
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:54:13-41
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:52:13-72
+service#com.applovin.impl.adview.activity.FullscreenAdService
+ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:55:9-58:44
+	android:exported
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:57:13-37
+	android:stopWithTask
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:58:13-41
+	android:name
+		ADDED from [com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:56:13-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:16:22-73
+intent#action:name:androidx.browser.customtabs.CustomTabsService
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:17:9-19:18
+action#androidx.browser.customtabs.CustomTabsService
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:18:13-84
+	android:name
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:18:21-81
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:20:9-26:18
+action#android.intent.action.VIEW
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:23:13-74
+	android:name
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:23:23-71
+data
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:13-44
+	android:scheme
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:19-41
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:http
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:27:9-33:18
+intent#action:name:android.intent.action.VIEW+data:scheme:market
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:34:9-38:18
+activity#com.inmobi.ads.rendering.InMobiAdActivity
+ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:42:9-47:46
+	android:hardwareAccelerated
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:45:13-47
+	tools:ignore
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:47:13-43
+	android:configChanges
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:44:13-139
+	android:theme
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:46:13-60
+	android:name
+		ADDED from [com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:43:13-69
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64

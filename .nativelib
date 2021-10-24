@@ -1,0 +1,43 @@
+{
+    "id": "23861411-a11e-4fc1-b484-11981d06d154",
+    "platforms": [
+        "all",
+        "android"
+    ],
+    "packages": {
+        "applovinmax": {
+            "version": "0.1.2",
+            "platforms": [
+                "all",
+                "android"
+            ],
+            "dependencies": [],
+            "variables": {
+                "AppLovin/SdkKey": {
+                    "info": "Set your SDK key here"
+                }
+            },
+            "autoload": {
+                "applovin_max": "*res://scripts/applovin_max.gd"
+            }
+        },
+        "applovinmax-inmobi": {
+            "version": "0.1.1",
+            "platforms": [
+                "android"
+            ],
+            "dependencies": [
+                "applovinmax@0.1.1"
+            ]
+        },
+        "applovinmax-facebook": {
+            "version": "0.1.1",
+            "platforms": [
+                "android"
+            ],
+            "dependencies": [
+                "applovinmax@0.1.1"
+            ]
+        }
+    }
+}

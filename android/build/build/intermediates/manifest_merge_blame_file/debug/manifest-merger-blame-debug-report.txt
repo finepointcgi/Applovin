@@ -1,0 +1,325 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.finepointcgi.applovinTutorial"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" > <!-- glEsVersion is modified by the exporter, changing this value here has no effect. -->
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="30" />
+10
+11    <supports-screens
+11-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:12:5-16:40
+12        android:largeScreens="true"
+12-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:15:9-36
+13        android:normalScreens="true"
+13-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:14:9-37
+14        android:smallScreens="true"
+14-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:13:9-36
+15        android:xlargeScreens="true" />
+15-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:16:9-37
+16
+17    <uses-feature
+17-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:10:5-78
+18        android:glEsVersion="0x00030000"
+18-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:10:19-51
+19        android:required="true" />
+19-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:10:52-75
+20
+21    <instrumentation
+21-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:11:5-16:69
+22        android:name=".GodotInstrumentation"
+22-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:13:9-45
+23        android:icon="@mipmap/icon"
+23-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:14:9-36
+24        android:label="@string/godot_project_name_string"
+24-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:15:9-58
+25        android:targetPackage="com.finepointcgi.applovinTutorial" />
+25-->C:\Users\animeman\Documents\Applovin\android\build\src\debug\AndroidManifest.xml:16:9-66
+26
+27    <uses-permission android:name="android.permission.INTERNET" />
+27-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:5-67
+27-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:22-64
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:5-79
+28-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:22-76
+29    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+29-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:5-81
+29-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:22-78
+30
+31    <uses-feature android:name="android.hardware.location.network" />
+31-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:5-70
+31-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:19-67
+32
+33    <queries>
+33-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:11:5-13:15
+34        <package android:name="com.facebook.katana" />
+34-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:12:9-55
+34-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:12:18-52
+35
+36        <intent>
+36-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:17:9-19:18
+37            <action android:name="androidx.browser.customtabs.CustomTabsService" />
+37-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:18:13-84
+37-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:18:21-81
+38        </intent>
+39        <intent>
+39-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:20:9-26:18
+40            <action android:name="android.intent.action.VIEW" />
+40-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:13-65
+40-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:21-62
+41
+42            <category android:name="android.intent.category.BROWSABLE" />
+42-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:23:13-74
+42-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:23:23-71
+43
+44            <data android:scheme="https" />
+44-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:13-44
+44-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:19-41
+45        </intent>
+46        <intent>
+46-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:27:9-33:18
+47            <action android:name="android.intent.action.VIEW" />
+47-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:13-65
+47-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:21-62
+48
+49            <category android:name="android.intent.category.BROWSABLE" />
+49-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:23:13-74
+49-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:23:23-71
+50
+51            <data android:scheme="http" />
+51-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:13-44
+51-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:19-41
+52        </intent>
+53        <intent>
+53-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:34:9-38:18
+54            <action android:name="android.intent.action.VIEW" />
+54-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:13-65
+54-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:21:21-62
+55
+56            <data android:scheme="market" />
+56-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:13-44
+56-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:25:19-41
+57        </intent>
+58    </queries> <!-- Optionally used by InMobi -->
+59    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+59-->[com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:16:5-76
+59-->[com.applovin.mediation:inmobi-adapter:9.9.9.8] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\e348bdad67b7b2204ef0a25088e868f6\jetified-inmobi-adapter-9.9.9.8\AndroidManifest.xml:16:22-73
+60
+61    <application
+61-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:5-69:19
+62        android:allowBackup="false"
+62-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:68-95
+63        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+63-->[androidx.core:core:1.1.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\77d4e0467303f4e9a6b86ecde8afee22\core-1.1.0\AndroidManifest.xml:24:18-86
+64        android:debuggable="true"
+65        android:hardwareAccelerated="true"
+65-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:18:9-43
+66        android:icon="@mipmap/icon"
+66-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:181-208
+67        android:label="@string/godot_project_name_string"
+67-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:18-67
+68        android:networkSecurityConfig="@xml/network_security_config"
+68-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:19:9-69
+69        android:requestLegacyExternalStorage="false" >
+69-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:31:136-180
+70        <activity
+70-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:46:9-63:20
+71            android:name="com.godot.game.GodotApp"
+71-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:47:13-37
+72            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|density|keyboard|navigation|screenLayout|uiMode"
+72-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:52:13-141
+73            android:label="@string/godot_project_name_string"
+73-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:48:13-62
+74            android:launchMode="singleTask"
+74-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:50:13-44
+75            android:resizeableActivity="false"
+75-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:53:13-47
+76            android:screenOrientation="landscape"
+76-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:51:13-50
+77            android:theme="@style/GodotAppSplashTheme" >
+77-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:49:13-55
+78            <intent-filter>
+78-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:59:13-62:29
+79                <action android:name="android.intent.action.MAIN" />
+79-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:60:17-69
+79-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:60:25-66
+80
+81                <category android:name="android.intent.category.LAUNCHER" />
+81-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:61:17-77
+81-->C:\Users\animeman\Documents\Applovin\android\build\AndroidManifest.xml:61:27-74
+82            </intent-filter>
+83        </activity>
+84        <!-- Records the version of the Godot editor used for building -->
+85        <meta-data
+86            android:name="org.godotengine.editor.version"
+87            android:value="3.3.4.stable" /> <!-- Records the version of the Godot library -->
+88        <meta-data
+88-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:20:9-22:44
+89            android:name="org.godotengine.library.version"
+89-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:21:13-59
+90            android:value="3.3.4.stable" />
+90-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:22:13-41
+91
+92        <service android:name="org.godotengine.godot.GodotDownloaderService" />
+92-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:9-80
+92-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:18-77
+93        <!--
+94    Plugin metadata:
+95    - In the `android:name` attribute, the `org.godotengine.plugin.v1` prefix
+96    is required so Godot can recognize the project as a valid Godot
+97    Android plugin. The plugin name following the prefix should match the value
+98    of the plugin name returned by the plugin initializer.
+99    - The `android:value` attribute should be the classpath to the plugin
+100    initializer.
+101        -->
+102        <meta-data
+102-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:30:9-32:66
+103            android:name="org.godotengine.plugin.v1.AppLovinMax"
+103-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:31:13-65
+104            android:value="ru.mobilap.applovinmax.AppLovinMax" />
+104-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:32:13-63
+105        <meta-data
+105-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:33:9-35:36
+106            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+106-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:34:13-69
+107            android:value="true" />
+107-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:35:13-33
+108
+109        <activity
+109-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:19:9-23:75
+110            android:name="com.facebook.ads.AudienceNetworkActivity"
+110-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:20:13-68
+111            android:configChanges="keyboardHidden|orientation|screenSize"
+111-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:21:13-74
+112            android:exported="false"
+112-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:22:13-37
+113            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+113-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:23:13-72
+114
+115        <provider
+115-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:25:9-28:40
+116            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+116-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:26:13-75
+117            android:authorities="com.finepointcgi.applovinTutorial.AudienceNetworkContentProvider"
+117-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:27:13-82
+118            android:exported="false" />
+118-->[com.facebook.android:audience-network-sdk:6.8.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\6b8cefb06d73da417fdcb2197068bf53\jetified-audience-network-sdk-6.8.0\AndroidManifest.xml:28:13-37
+119
+120        <activity
+120-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:15:9-19:50
+121            android:name="com.applovin.adview.AppLovinInterstitialActivity"
+121-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:16:13-76
+122            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|uiMode"
+122-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:17:13-98
+123            android:hardwareAccelerated="true"
+123-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:18:13-47
+124            android:screenOrientation="behind" />
+124-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:19:13-47
+125        <activity
+125-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:20:9-26:50
+126            android:name="com.applovin.adview.AppLovinFullscreenActivity"
+126-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:21:13-74
+127            android:configChanges="keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+127-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:22:13-129
+128            android:exported="false"
+128-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:23:13-37
+129            android:hardwareAccelerated="true"
+129-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:24:13-47
+130            android:launchMode="singleTop"
+130-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:25:13-43
+131            android:screenOrientation="behind" />
+131-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:26:13-47
+132        <activity
+132-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:27:9-29:84
+133            android:name="com.applovin.sdk.AppLovinWebViewActivity"
+133-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:28:13-68
+134            android:configChanges="keyboardHidden|orientation|screenSize|uiMode" />
+134-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:29:13-81
+135        <activity
+135-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:30:9-33:87
+136            android:name="com.applovin.mediation.MaxDebuggerActivity"
+136-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:31:13-70
+137            android:configChanges="keyboardHidden|orientation|screenSize"
+137-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:32:13-74
+138            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+138-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:33:13-84
+139        <activity
+139-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:34:9-37:87
+140            android:name="com.applovin.mediation.MaxDebuggerDetailActivity"
+140-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:35:13-76
+141            android:configChanges="keyboardHidden|orientation|screenSize"
+141-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:36:13-74
+142            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+142-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:37:13-84
+143        <activity
+143-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:38:9-41:87
+144            android:name="com.applovin.mediation.MaxDebuggerMultiAdActivity"
+144-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:39:13-77
+145            android:configChanges="keyboardHidden|orientation|screenSize"
+145-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:40:13-74
+146            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+146-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:41:13-84
+147        <activity
+147-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:42:9-45:87
+148            android:name="com.applovin.mediation.MaxDebuggerAdUnitsListActivity"
+148-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:43:13-81
+149            android:configChanges="keyboardHidden|orientation|screenSize"
+149-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:44:13-74
+150            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+150-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:45:13-84
+151        <activity
+151-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:46:9-49:87
+152            android:name="com.applovin.mediation.MaxDebuggerAdUnitDetailActivity"
+152-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:47:13-82
+153            android:configChanges="keyboardHidden|orientation|screenSize"
+153-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:48:13-74
+154            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+154-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:49:13-84
+155
+156        <service
+156-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:51:9-54:44
+157            android:name="com.applovin.impl.sdk.utils.AppKilledService"
+157-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:52:13-72
+158            android:exported="false"
+158-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:53:13-37
+159            android:stopWithTask="false" />
+159-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:54:13-41
+160        <service
+160-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:55:9-58:44
+161            android:name="com.applovin.impl.adview.activity.FullscreenAdService"
+161-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:56:13-81
+162            android:exported="false"
+162-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:57:13-37
+163            android:stopWithTask="false" />
+163-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:58:13-41
+164
+165        <activity
+165-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:42:9-47:46
+166            android:name="com.inmobi.ads.rendering.InMobiAdActivity"
+166-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:43:13-69
+167            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize|screenLayout|locale|fontScale|uiMode"
+167-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:44:13-139
+168            android:hardwareAccelerated="true"
+168-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:45:13-47
+169            android:theme="@android:style/Theme.NoTitleBar" />
+169-->[com.inmobi.monetization:inmobi-ads:9.2.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\74f7d2ef3c07732d8f6c463def10c252\jetified-inmobi-ads-9.2.1\AndroidManifest.xml:46:13-60
+170
+171        <meta-data
+171-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+172            android:name="com.google.android.gms.version"
+172-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+173            android:value="@integer/google_play_services_version" />
+173-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\0e28db26779229e0d9baff317473479e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+174
+175        <provider
+175-->[com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+176            android:name="com.squareup.picasso.PicassoProvider"
+176-->[com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+177            android:authorities="com.finepointcgi.applovinTutorial.com.squareup.picasso"
+177-->[com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+178            android:exported="false" />
+178-->[com.squareup.picasso:picasso:2.71828] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\9b269fb0c3de600b348a6ae550cdf2a2\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+179    </application>
+180
+181</manifest>
